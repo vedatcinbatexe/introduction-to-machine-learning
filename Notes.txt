@@ -1,0 +1,19 @@
+# Introduction To Machine Learning #
+
+# Weekly Focus #
+1    Intro to ML               Terminology, types of learning, train/test, overfitting
+2    Supervised Learning       Hypothesis space, generalization, bias/variance, evaluation
+3    Bayes Rule                Probabilistic decision-making, priors, posteriors, loss/risk
+4    Naive Bayes               Conditional independence classifier
+5    Decision Trees            Entropy, information gain, pruning
+6    Linear Discrimination     Linear classifiers, logistic regression, gradient descent
+7    Neural Networks           Perceptron, MLP, backpropagation
+8    Midterm  
+9    SVM                       Maximum margin, support vectors
+10   Nonlinear SVM             Kernel trick (RBF polynominal)
+11   Unsupervised Learning     Learning without labels
+12   K-means, Mixture Models   Clustering, Gaussian Mixture Models, the EM algorithm
+13   Hierarchical Clustering   Agglomerative clustering, dendrograms
+14   Ensembles                 Bagging, Random Forest, Boosting (AdaBoost/GBM)
+15   Reinforcement Learning    Markov decision processes, Q-learning basics
+16   Final
